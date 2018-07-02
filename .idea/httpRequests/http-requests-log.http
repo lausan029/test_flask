@@ -1,0 +1,40 @@
+GET http://127.0.0.1:5000/
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-07-02T064550.200.html
+
+###
+
+GET http://127.0.0.1:5000/
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-07-02T064032.200.html
+
+###
+
+POST http://127.0.0.1:5000/
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-07-02T064028.405.html
+
+###
+
+GET http://127.0.0.1:5000/
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-07-02T064020.200.html
+
+###
+
+POST http://127.0.0.1:5000/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-07-02T063939.405.html
+
+###
+
